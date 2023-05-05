@@ -119,7 +119,7 @@ const About = () => {
             </Title>
             <div className="desc bg-black p-5 rounded-lg">
               <Desc><pre>{
-               `I'm a Computer Science Junior Student in JSSSTU, India. 
+               `I'm a Computer Science 3rd Student in JSSSTU, India. 
 Always excited to Learn and work on new Technologies.
 I have explored various aspects of Computer World such
 as Web tech, UI/UX, Flutter, AI and collaborated for WEB,

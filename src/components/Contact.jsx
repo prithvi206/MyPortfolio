@@ -3,7 +3,7 @@ import styled from "styled-components";
 import emailjs from "@emailjs/browser";
 import { Parallax } from 'react-parallax';
 import lapbg from "../assets/code.png";
-import linkedIn from "../assets/socialMedia/linkedIn.png";
+import linkedIn from "../assets/socialMedia/LinkedIn.png";
 import github from "../assets/github.png";
 import instagram from "../assets/socialMedia/instagram.png";
 import mail from "../assets/socialMedia/gmail.png";

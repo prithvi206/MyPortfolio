@@ -4,7 +4,7 @@ import {HashLink} from 'react-router-hash-link'
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { menu, close } from "../assets";
-import linkedIn from "../assets/socialMedia/linkedIn.png"
+import linkedIn from "../assets/socialMedia/LinkedIn.png"
 import github from "../assets/github.png"
 import instagram from "../assets/socialMedia/instagram.png"
 

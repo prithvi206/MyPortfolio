@@ -132,7 +132,7 @@ const projects = [
     description: "Web application built on React Js,Tailwind css ,Three js",
     imgUrl: Portfolio,
 
-    source_code_link: "https://github.com/prithvi206",
+    source_code_link: "https://github.com/prithvi206/MyPortfolio",
   },
 
   {

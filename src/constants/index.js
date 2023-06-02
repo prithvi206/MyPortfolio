@@ -23,6 +23,8 @@ import Portfolio from "../assets/projects/portfolio.png";
 import HyperLocal from "../assets/projects/hyperlocal.png";
 import JSSKOS from "../assets/projects/jsskos.png";
 import GDSC from "../assets/projects/gdsc.png";
+import HyperLocalNew from "../assets/projects/quadtree.png";
+import Quadtree from "../assets/projects/quadtree.png";
 
 export const navLinks = [
   {
@@ -138,10 +140,21 @@ const projects = [
     title: "Hyper Local latest Version",
 
     description: "Web application that Node Js ,express Js,React Js ,prisma, TypeScript and MongoDB",
-    imgUrl: ,
+    imgUrl: HyperLocalNew,
 
     source_code_link: "https://hyper-local.vercel.app/",
   },
+  {
+    title: "Quad Tree visualization",
+
+    description: "Html ,Javascript, ps5 website illustrating quad tree ",
+    imgUrl: Quadtree,
+
+    source_code_link: "https://quadtreevisualization.vercel.app/",
+  },
+  
+  
+  {
     title: "HyperLocal old version ",
     description: "Web application that Node Js ,express Js,Vue Js and MongoDB ",
 

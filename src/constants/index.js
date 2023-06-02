@@ -134,9 +134,15 @@ const projects = [
 
     source_code_link: "https://github.com/prithvi206/MyPortfolio",
   },
-
   {
-    title: "HyperLocal",
+    title: "Hyper Local latest Version",
+
+    description: "Web application that Node Js ,express Js,React Js ,prisma, TypeScript and MongoDB",
+    imgUrl: ,
+
+    source_code_link: "https://hyper-local.vercel.app/",
+  },
+    title: "HyperLocal old version ",
     description: "Web application that Node Js ,express Js,Vue Js and MongoDB ",
 
     imgUrl: HyperLocal,

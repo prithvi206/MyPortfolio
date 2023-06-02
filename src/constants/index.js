@@ -23,7 +23,7 @@ import Portfolio from "../assets/projects/portfolio.png";
 import HyperLocal from "../assets/projects/hyperlocal.png";
 import JSSKOS from "../assets/projects/jsskos.png";
 import GDSC from "../assets/projects/gdsc.png";
-import HyperLocalNew from "../assets/projects/quadtree.png";
+import HyperLocalNew from "../assets/projects/hyperlocalnew.png";
 import Quadtree from "../assets/projects/quadtree.png";
 
 export const navLinks = [
